@@ -1,0 +1,13 @@
+.skills-container {
+    grid-row: 2 / 3;
+    color: rebeccapurple;
+    max-width: 1060px;
+    width: 100%;
+    height: 100%;
+    display: grid;
+    justify-self: center;
+    justify-items: center;
+    padding-top: 30px;
+    background: ghostwhite;
+    grid-template-rows: 20% 60% 20%;
+}

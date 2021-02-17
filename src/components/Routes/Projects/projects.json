@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Tubecast",
+        "tech": "HTML, CSS, Javascript/React",
+        "pkgs": "moment.js, disable-scroll, react-router-dom",
+        "deployed": "https://tubecast.netlify.app/",
+        "repo": "https://github.com/PierreLampre/tubecast-v2",
+        "blurb": "Tubecast is meant to simulate the classic Comcast TV Guide and OnDemand screens I grew up with. The user can click on individual programs as they appear in the schedule to load them into the video player, or click on the channel names to peruse all programs scheduled on the channel to view on demand."
+    },
+    {
+        "name": "Keep Yourself Alive",
+        "tech": "HTML, CSS, Javascript/React",
+        "pkgs": "moment.js, react-router-dom",
+        "deployed": "https://keepyourselfalive.netlify.app/",
+        "repo": "https://github.com/PierreLampre/medicine-tracker",
+        "blurb": "I am not good at remembering to take my medication.  This application allows the user to input medication names and how often they are taken.  When the user clicks 'Take Medicine', it makes a timestamp of when it was taken and when it should be taken again.  This timestamp persists to local storage and can be cleared."
+    }
+]
