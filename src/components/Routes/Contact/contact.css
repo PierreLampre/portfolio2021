@@ -10,6 +10,7 @@
     padding-top: 30px;
     background: ghostwhite;
     grid-template-rows: 20% 60% 20%;
+    opacity: 0;
 }
 
 .contact-container > h2 {

@@ -14,5 +14,21 @@
         "deployed": "https://keepyourselfalive.netlify.app/",
         "repo": "https://github.com/PierreLampre/medicine-tracker",
         "blurb": "I am not good at remembering to take my medication.  This application allows the user to input medication names and how often they are taken.  When the user clicks 'Take Medicine', it makes a timestamp of when it was taken and when it should be taken again.  This timestamp persists to local storage and can be cleared."
+    },
+    {
+        "name": "Georgian Phonics",
+        "tech": "HTML, CSS, Javascript",
+        "pkgs": "None",
+        "deployed": "https://pierrelampre.github.io/georgian-phonics/",
+        "repo": "https://github.com/PierreLampre/georgian-phonics",
+        "blurb": "A friend of mine wanted help with his language learning application.  I refactored the javascript to be more flexible and wrote css for it looks right on a cellphone."
+    },
+    {
+        "name": "Rob Moore",
+        "tech": "Wordpress, HTML, CSS, Javascript",
+        "pkgs": "None",
+        "deployed": "https://robisabeast.com",
+        "repo": "https://github.com/PierreLampre/georgian-phonics",
+        "blurb": "A Wordpress Blog site for a musician and author named Rob Moore. My first Wordpress project!"
     }
 ]

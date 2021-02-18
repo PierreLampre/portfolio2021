@@ -6,4 +6,40 @@
     height: 100%;
     display: grid;
     justify-self: center;
+    align-items: center;
+    justify-items: center;
+}
+
+.anim-box1 {
+    height: 5%;
+    width: 5%;
+    background: dodgerblue;
+    border-radius: 12px;
+}
+
+.centered {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+}
+
+.anim-box2 {
+    height: 90%;
+    width: 90%;
+    background: crimson;
+    border-radius: 12px;
+}
+
+.anim-box3 {
+    height: 90%;
+    width: 90%;
+    background: goldenrod;
+    border-radius: 12px;
+}
+
+.anim-box4 {
+    height: 90%;
+    width: 90%;
+    background: chartreuse;
+    border-radius: 12px;
 }

@@ -10,6 +10,7 @@
     padding-top: 30px;
     background: ghostwhite;
     grid-template-rows: 6% 74% 20%;
+    opacity: 0;
 }
 
 .projects-container > h2 {
