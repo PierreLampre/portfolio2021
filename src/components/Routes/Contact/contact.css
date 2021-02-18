@@ -11,3 +11,7 @@
     background: ghostwhite;
     grid-template-rows: 20% 60% 20%;
 }
+
+.contact-container > h2 {
+    font-size: 36px;
+}
