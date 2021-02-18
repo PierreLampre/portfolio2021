@@ -8,13 +8,15 @@
     justify-self: center;
     align-items: center;
     justify-items: center;
+    position: relative;
 }
 
-.anim-box1 {
-    height: 5%;
-    width: 5%;
-    background: dodgerblue;
-    border-radius: 12px;
+.pinwheel-box {
+    width: 70%;
+    height: 70%;
+    z-index: 10;
+    position: absolute;
+    margin-bottom: 80px;
 }
 
 .centered {
@@ -23,11 +25,21 @@
     justify-items: center;
 }
 
+
+.anim-box1 {
+    height: 5%;
+    width: 5%;
+    background: dodgerblue;
+    border-radius: 12px;
+    box-shadow: 0 0 5px 10px black;
+}
+
 .anim-box2 {
     height: 90%;
     width: 90%;
     background: crimson;
-    border-radius: 12px;
+    border-radius: 12px;    
+    box-shadow: 0 0 5px 10px black;
 }
 
 .anim-box3 {
@@ -35,6 +47,7 @@
     width: 90%;
     background: goldenrod;
     border-radius: 12px;
+    box-shadow: 0 0 5px 10px black;
 }
 
 .anim-box4 {
@@ -42,4 +55,19 @@
     width: 90%;
     background: chartreuse;
     border-radius: 12px;
+    box-shadow: 0 0 5px 10px black;
+}
+
+.marquee {
+    margin-left: 350px;
+}
+
+.marquee > h1 {
+    font-size: 80px;
+    opacity: 0;
+}
+
+.marquee > h3 {
+    font-size: 50px;
+    opacity: 0;
 }
